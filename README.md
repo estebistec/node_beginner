@@ -13,3 +13,7 @@ Dependencies:
 
 * formidable
 * mu2
+
+How to run:
+
+    node index.js
